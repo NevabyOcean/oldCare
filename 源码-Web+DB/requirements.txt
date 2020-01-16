@@ -1,5 +1,5 @@
 codegen==1.0
-Django==2.1.2
+Django==2.1.15
 numpy==1.16.4
 opencv-python==4.1.0.25
 patterns==0.3
