@@ -1,6 +1,6 @@
 codegen==1.0
 Django==2.1.2
-numpy==1.16.4
+numpy==1.22.0
 opencv-python==4.1.0.25
 patterns==0.3
 Pillow==6.1.0
